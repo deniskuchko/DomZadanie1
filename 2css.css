@@ -1,0 +1,15 @@
+#P1 {
+    color:grey;
+    font-size: 20;
+    font-weight: normal;
+    font-family: fantasy;
+    text-align:center;
+}
+
+#P2 {
+	color:rgb(255, 0, 212);
+    font-size: 15;
+    font-weight: bolder;
+    font-family: monospace;
+    text-align:center;
+}
