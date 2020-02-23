@@ -4,3 +4,15 @@
     font-weight: bold;
     font-family: cursive;
 }
+ul.ul-circle{
+    list-style-type: circle;
+}
+ul.ul-section{
+    list-style-type: none;
+}
+ul.ul-section > li:before{ content:"§"
+}
+
+ul.ul-dick{
+    list-style-type:"\2022\00A0\00A0";
+}
